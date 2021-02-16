@@ -68,6 +68,8 @@ body {
 
     text-decoration: none;
     position: relative;
+
+    overflow: hidden;
 }
 
 .wave-btn__text {
